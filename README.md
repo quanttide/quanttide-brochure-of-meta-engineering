@@ -4,7 +4,7 @@
 
 ## 概述
 
-待补充
+回答三个问题：这套范式有什么用，怎么帮人赚钱或省钱，我们怎么卖。正文见 [index.md](index.md)；qtcloud-meta 单列一篇——[价值](qtcloud-meta/index.md)与[定价](qtcloud-meta/price.md)。
 
 ## 许可
 
